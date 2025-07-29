@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!-- Horizontally arranged tech icons at 80x80 size -->
-<p align="center">
+<p align="center" background = "white">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg" width="80" height="80" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original-wordmark.svg" width="80" height="80" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="80" height="80" />
