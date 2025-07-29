@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - Tools: Git, Docker, etc.
 
 ## 📊 Real-Time Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Parshuram-Behera&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
 ## 🎨 Fun Stickers
