@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+*I'm Parshuram, a passionate Android App developer and tech enthusiast.*
+
 <!-- Horizontally arranged tech icons at 80x80 size 
 <p align="center" background = "white">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg" width="80" height="80" />
@@ -45,7 +47,6 @@
 
 <!--![Hey](https://placehold.co/1200x75?text=Parshuram+Behera) -->
 
-*I'm Parshuram, a passionate Android App developer and tech enthusiast.*
 
 ## 🛠️ Skills
 - Programming Languages: Java , Kotlin , C .
