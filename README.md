@@ -15,27 +15,21 @@
   <tr>
     <td align="center">
       <img src="https://github.com/Parshuram-Behera/your-repo/raw/main/assets/icons/android.png" width="80" height="80" alt="Android" />
-      <img src="https://placehold.co/480x80/ffffff/ffffff" width="80" height="80" alt="white background" />
     </td>
     <td align="center">
       <img src="https://github.com/Parshuram-Behera/your-repo/raw/main/assets/icons/kotlin.png" width="80" height="80" alt="Kotlin" />
-      <img src="https://placehold.co/480x80/ffffff/ffffff" width="80" height="80" alt="white background" />
     </td>
     <td align="center">
       <img src="https://github.com/Parshuram-Behera/your-repo/raw/main/assets/icons/java.png" width="80" height="80" alt="Java" />
-      <img src="https://placehold.co/480x80/ffffff/ffffff" width="80" height="80" alt="white background"/>
     </td>
     <td align="center">
       <img src="https://github.com/Parshuram-Behera/your-repo/raw/main/assets/icons/c.png" width="80" height="80" alt="C" />
-      <img src="https://placehold.co/480x80/ffffff/ffffff" width="80" height="80" alt="white background" />
     </td>
     <td align="center">
       <img src="https://github.com/Parshuram-Behera/your-repo/raw/main/assets/icons/canva.png" width="80" height="80" alt="Canva" />
-      <img src="https://placehold.co/480x80/ffffff/ffffff" width="80" height="80" alt="white background"  />
     </td>
     <td align="center">
       <img src="https://github.com/Parshuram-Behera/your-repo/raw/main/assets/icons/jetpackcompose.png" width="80" height="80" alt="Jetpack Compose" />
-      <img src="https://placehold.co/480x80/ffffff/ffffff" width="80" height="80" alt="white background"  />
     </td>
   </tr>
 </table>
