@@ -29,13 +29,15 @@ Here are some ideas to get you started:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Parshuram-Behera&layout=compact&theme=radical)
 
 ## 🎨 Fun Stickers
-![Sticker 1](https://octodex.github.com/images/octocat-de-los-muertos.jpg)  
-![Sticker 2](https://octodex.github.com/images/daftpunktocat-thomas.gif)
+ <!--![Sticker 1](https://octodex.github.com/images/octocat-de-los-muertos.jpg)  
+![Sticker 2](https://octodex.github.com/images/daftpunktocat-thomas.gif) -->
 
 ## 🌟 Featured Projects
+<!--
 - [Project 1](https://github.com/your-username/project1): Description of the project.
 - [Project 2](https://github.com/your-username/project2): Description of the project.
+-->
 
 ## 📫 Contact Me
-- [LinkedIn](https://linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
+- [LinkedIn](https://linkedin.com/in/parshurambehera7735)
+<!-- - [Twitter](https://twitter.com/y) -->
