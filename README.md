@@ -11,14 +11,34 @@
 </p> -->
 
 <!-- Horizontally arranged tech icons at 80x80 size -->
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg" width="80" height="80" alt="Android" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original-wordmark.svg" width="80" height="80" alt="Kotlin" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="80" height="80" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="80" height="80" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="80" height="80" alt="Canva" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original-wordmark.svg" width="80" height="80" alt="Jetpack Compose" />
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/Parshuram-Behera/your-repo/raw/main/assets/icons/android.png" width="80" height="80" alt="Android" />
+      <img src="https://placehold.co/480x80/ffffff/ffffff" width="80" height="80" alt="white background" style="position:absolute; z-index:0;" />
+    </td>
+    <td align="center">
+      <img src="https://github.com/Parshuram-Behera/your-repo/raw/main/assets/icons/kotlin.png" width="80" height="80" alt="Kotlin" />
+      <img src="https://placehold.co/480x80/ffffff/ffffff" width="80" height="80" alt="white background" style="position:absolute; z-index:0;" />
+    </td>
+    <td align="center">
+      <img src="https://github.com/Parshuram-Behera/your-repo/raw/main/assets/icons/java.png" width="80" height="80" alt="Java" />
+      <img src="https://placehold.co/480x80/ffffff/ffffff" width="80" height="80" alt="white background" style="position:absolute; z-index:0;" />
+    </td>
+    <td align="center">
+      <img src="https://github.com/Parshuram-Behera/your-repo/raw/main/assets/icons/c.png" width="80" height="80" alt="C" />
+      <img src="https://placehold.co/480x80/ffffff/ffffff" width="80" height="80" alt="white background" style="position:absolute; z-index:0;" />
+    </td>
+    <td align="center">
+      <img src="https://github.com/Parshuram-Behera/your-repo/raw/main/assets/icons/canva.png" width="80" height="80" alt="Canva" />
+      <img src="https://placehold.co/480x80/ffffff/ffffff" width="80" height="80" alt="white background" style="position:absolute; z-index:0;" />
+    </td>
+    <td align="center">
+      <img src="https://github.com/Parshuram-Behera/your-repo/raw/main/assets/icons/jetpackcompose.png" width="80" height="80" alt="Jetpack Compose" />
+      <img src="https://placehold.co/480x80/ffffff/ffffff" width="80" height="80" alt="white background" style="position:absolute; z-index:0;" />
+    </td>
+  </tr>
+</table>
 
 ![Hey](https://placehold.co/1200x75?text=Parshuram+Behera)
 
