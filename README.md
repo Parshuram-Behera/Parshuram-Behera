@@ -10,14 +10,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original-wordmark.svg" width="80" height="80" />
 </p> -->
 
-<div align="center" style="background:white; padding:15px;">
+<!-- Horizontally arranged tech icons at 80x80 size -->
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg" width="80" height="80" alt="Android" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original-wordmark.svg" width="80" height="80" alt="Kotlin" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="80" height="80" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="80" height="80" alt="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="80" height="80" alt="Canva" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original-wordmark.svg" width="80" height="80" alt="Jetpack Compose" />
-</div>
+</p>
 
 ![Hey](https://placehold.co/1200x75?text=Parshuram+Behera)
 
