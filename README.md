@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # About Me
 
 ![Header Image](https://via.placeholder.com/800x200.png?text=Welcome+to+My+Profile)  
-*Hi there! I'm [Your Name], a passionate developer and tech enthusiast.*
+*Hi there! I'm Parshuram , a passionate Android App developer and tech enthusiast.*
 
 ## 🛠️ Skills
 - Programming Languages: Python, JavaScript, etc.
