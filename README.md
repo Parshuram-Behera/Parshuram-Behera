@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 # About Me
 
-![Header Image](https://via.placeholder.com/800x200.png?text=Welcome+to+My+Profile)  
+<!-- ![Header Image](https://via.placeholder.com/800x200.png?text=Welcome+to+My+Profile)  -->
+
 *Hi there! I'm Parshuram , a passionate Android App developer and tech enthusiast.*
 
 ## 🛠️ Skills
