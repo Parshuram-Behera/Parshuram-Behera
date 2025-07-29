@@ -1,29 +1,18 @@
 ## Hi there 👋
 
-<!--
-**Parshuram-Behera/Parshuram-Behera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Horizontally arranged tech icons at 80x80 size -->
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg" width="80" height="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original-wordmark.svg" width="80" height="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="80" height="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="80" height="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="80" height="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original-wordmark.svg" width="80" height="80" />
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# About Me
-
-<!-- ![Header Image](https://via.placeholder.com/800x200.png?text=Welcome+to+My+Profile)  -->
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg" />
-          
 ![Hey](https://placehold.co/1200x75?text=Parshuram+Behera)
 
-*Hi there! I'm Parshuram , a passionate Android App developer and tech enthusiast.*
+*Hi there! I'm Parshuram, a passionate Android App developer and tech enthusiast.*
 
 ## 🛠️ Skills
 - Programming Languages: Python, JavaScript, etc.
@@ -33,16 +22,7 @@ Here are some ideas to get you started:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Parshuram-Behera&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Parshuram-Behera&layout=compact&theme=radical)
 
-## 🎨 Fun Stickers
- <!--![Sticker 1](https://octodex.github.com/images/octocat-de-los-muertos.jpg)  
-![Sticker 2](https://octodex.github.com/images/daftpunktocat-thomas.gif) -->
-
-## 🌟 Featured Projects
-<!--
-- [Project 1](https://github.com/your-username/project1): Description of the project.
-- [Project 2](https://github.com/your-username/project2): Description of the project.
--->
-
 ## 📫 Contact Me
-- [LinkedIn](https://linkedin.com/in/parshurambehera7735)
-<!-- - [Twitter](https://twitter.com/y) -->
+<a href="https://linkedin.com/in/parshurambehera7735">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30" height="30" />
+</a>
