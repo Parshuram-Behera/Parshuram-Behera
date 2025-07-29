@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <!-- ![Header Image](https://via.placeholder.com/800x200.png?text=Welcome+to+My+Profile)  -->
 
-![Hey](https://placehold.co/600x400?text=Hello+World)
+![Hey](https://placehold.co/800x200?text=Hello+World)
 
 *Hi there! I'm Parshuram , a passionate Android App developer and tech enthusiast.*
 
