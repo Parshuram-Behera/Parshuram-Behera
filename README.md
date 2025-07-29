@@ -36,7 +36,7 @@
 
 <!--![Hey](https://placehold.co/1200x75?text=Parshuram+Behera) -->
 
-* I'm Parshuram, a passionate Android App developer and tech enthusiast.*
+*I'm Parshuram, a passionate Android App developer and tech enthusiast.*
 
 ## 🛠️ Skills
 - Programming Languages: Python, JavaScript, etc.
