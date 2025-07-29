@@ -37,6 +37,9 @@
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="80" height="80" alt="Jetpack Compose" />
     </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="80" height="80" alt="Jetpack Compose" />
+    </td>
   </tr>          
 </table>
 
