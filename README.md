@@ -34,7 +34,7 @@
   </tr>
 </table>
 
-![Hey](https://placehold.co/1200x75?text=Parshuram+Behera)
+<!--![Hey](https://placehold.co/1200x75?text=Parshuram+Behera) -->
 
 *Hi there! I'm Parshuram, a passionate Android App developer and tech enthusiast.*
 
