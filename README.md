@@ -14,22 +14,22 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/Parshuram-Behera/your-repo/raw/main/assets/icons/android.png" width="80" height="80" alt="Android" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg" width="80" height="80" alt="Android" />
     </td>
     <td align="center">
-      <img src="https://github.com/Parshuram-Behera/your-repo/raw/main/assets/icons/kotlin.png" width="80" height="80" alt="Kotlin" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original-wordmark.svg" width="80" height="80" alt="Kotlin" />
     </td>
     <td align="center">
-      <img src="https://github.com/Parshuram-Behera/your-repo/raw/main/assets/icons/java.png" width="80" height="80" alt="Java" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="80" height="80" alt="Java" />
     </td>
     <td align="center">
-      <img src="https://github.com/Parshuram-Behera/your-repo/raw/main/assets/icons/c.png" width="80" height="80" alt="C" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="80" height="80" alt="C" />
     </td>
     <td align="center">
-      <img src="https://github.com/Parshuram-Behera/your-repo/raw/main/assets/icons/canva.png" width="80" height="80" alt="Canva" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="80" height="80" alt="Canva" />
     </td>
     <td align="center">
-      <img src="https://github.com/Parshuram-Behera/your-repo/raw/main/assets/icons/jetpackcompose.png" width="80" height="80" alt="Jetpack Compose" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original-wordmark.svg" width="80" height="80" alt="Jetpack Compose" />
     </td>
   </tr>
 </table>
