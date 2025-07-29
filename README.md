@@ -39,8 +39,9 @@
 *I'm Parshuram, a passionate Android App developer and tech enthusiast.*
 
 ## 🛠️ Skills
-- Programming Languages: Python, JavaScript, etc.
-- Tools: Git, Docker, etc.
+- Programming Languages: Java , Kotlin , C .
+- Scriping Languages: XML , HTML  
+- Tools: Android Studio , Intelij Idea , VS Code , Git , etc.
 
 ## 📊 Real-Time Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Parshuram-Behera&show_icons=true&theme=radical)  
