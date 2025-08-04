@@ -45,6 +45,11 @@
   </tr>          
 </table>
 
+<a href="https://github.com/Parshuram-Behera/GitHub-Language-Stats">
+<!--<img src="https://github.com/connor9994/GitHub-Language-Stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/connor9994/GitHub-Language-Stats/blob/master/generated/languages.svg#gh-dark-mode-only" /> -->
+</a>
+
 <!--![Hey](https://placehold.co/1200x75?text=Parshuram+Behera) -->
 
 
