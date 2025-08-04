@@ -60,6 +60,7 @@
 
 ## 📊 Real-Time Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Parshuram-Behera&show_icons=true&theme=radical)  
+![GitHub Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=Parshuram-Behera&theme=radical&layout=compact)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Parshuram-Behera&layout=compact&theme=radical)
 
 ## 📫 Contact Me
