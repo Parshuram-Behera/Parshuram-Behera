@@ -74,9 +74,10 @@
 ## MY APPS ON PLAYSTORE
 
 <table>
+  
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg" width="80" height="80" alt="Android" />
+      <img src="https://github.com/user-attachments/assets/a5fc2a4e-c898-4c35-adbe-4aa0b966f813" width="180" height="80" alt="Android" />
     </td> 
 </table>
 
