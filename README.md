@@ -70,3 +70,14 @@
 <a href="https://linkedin.com/in/parshurambehera7735">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30" height="30" />
 </a>
+
+## MY APPS ON PLAYSTORE
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg" width="80" height="80" alt="Android" />
+    </td> 
+</table>
+
+
