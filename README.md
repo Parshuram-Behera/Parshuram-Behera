@@ -56,7 +56,7 @@
 
 ## 🛠️ Skills
 - Programming Languages: Java , Kotlin , C .
-- Scriping Languages: XML , HTML  
+- Scripting Languages: XML , HTML  
 - Tools: Android Studio , Intelij Idea , VS Code , Git , etc.
 
 ## 📊 Real-Time Stats
