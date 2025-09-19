@@ -77,7 +77,7 @@
   <tr>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/a5fc2a4e-c898-4c35-adbe-4aa0b966f813" width="180" height="90" alt="Android" /><br>
-      <a href="  https://play.google.com/store/apps/details?id=com.onedevapps.dailyreminder">
+      <a >
         <img src=" https://img.shields.io/badge/DOWNLOAD-NOW-brightgreen?style=for-the-badge" alt="Download Now">
       </a>
     </td> 
