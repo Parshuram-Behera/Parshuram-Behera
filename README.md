@@ -60,9 +60,9 @@
 - Tools: Android Studio , Intelij Idea , VS Code , Git , etc.
 
 ## 📊 Real-Time Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Parshuram-Behera&show_icons=true&theme=radical&hide=)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Parshuram-Behera&show_icons=true&theme=radical)
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Parshuram-Behera&show_icons=true&theme=radical)  -->
-![GitHub Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=Parshuram-Behera&theme=radical&layout=compact)
+![GitHub Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=Parshuram-Behera&theme=radical&layout=compact&theme=radical)
 
 <!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Parshuram-Behera&layout=compact&theme=radical) -->
 
