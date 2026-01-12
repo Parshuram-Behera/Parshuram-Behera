@@ -1,1 +1,1 @@
-![GitHub Stats](https://parshurambehera.vercel.app/)
+https://parshurambehera.vercel.app
