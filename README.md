@@ -1,83 +1,88 @@
-<h1 align="center">👋 Hi there, I'm Parshuram!</h1>
-<p align="center">
-  <b>Passionate Android App Developer & Tech Enthusiast</b><br/>
-  Crafting beautiful, functional Android applications with <b>Kotlin</b> & <b>Jetpack Compose</b>
-</p>
+## Hi there 👋
 
----
+*I'm Parshuram, a passionate Android App developer and tech enthusiast.*
 
-## 🛠️ Tech Stack & Tools
+<!-- Horizontally arranged tech icons at 80x80 size 
+<p align="center" background = "white">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg" width="80" height="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original-wordmark.svg" width="80" height="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="80" height="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="80" height="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="80" height="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original-wordmark.svg" width="80" height="80" />
+</p> -->
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-plain-wordmark.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original-wordmark.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40"/>
-</p>
+<!-- Horizontally arranged tech icons at 80x80 size -->
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg" width="80" height="80" alt="Android" />
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-plain-wordmark.svg" width="90" height="90" alt="Kotlin" />
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="80" height="80" alt="Java" />
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="80" height="80" alt="C" />
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="80" height="80" alt="Canva" />
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original-wordmark.svg" width="80" height="80" alt="Jetpack Compose" />
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="80" height="80" alt="HTML" />
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="80" height="80" alt="Android Studio" />
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="80" height="80" alt="Figma" />
+    </td>
+  </tr>          
+</table>
 
----
+<a href="https://github.com/Parshuram-Behera/GitHub-Language-Stats">
 
-## 📊 GitHub Stats
+</a>
+<!--<img src="https://github.com/connor9994/GitHub-Language-Stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/connor9994/GitHub-Language-Stats/blob/master/generated/languages.svg#gh-dark-mode-only" /> -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Parshuram-Behera&show_icons=true&theme=tokyonight" />
-</p>
+<!--![Hey](https://placehold.co/1200x75?text=Parshuram+Behera) -->
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parshuram-Behera&theme=tokyonight" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parshuram-Behera&layout=compact&theme=tokyonight" />
-</p>
+## 🛠️ Skills
+- Programming Languages: Java , Kotlin , C .
+- Scripting Languages: XML , HTML  
+- Tools: Android Studio , Intelij Idea , VS Code , Git , etc.
 
----
+## 📊 Real-Time Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Parshuram-Behera&show_icons=true&theme=radical&hide=)
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Parshuram-Behera&show_icons=true&theme=radical)  -->
+![GitHub Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=Parshuram-Behera&theme=radical&layout=compact)
 
-## 📱 My Apps on Play Store
+<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Parshuram-Behera&layout=compact&theme=radical) -->
 
-### **Daily Reminder**
-<p>
-  <img src="https://github.com/user-attachments/assets/a5fc2a4e-c898-4c35-adbe-4aa0b966f813" width="120" align="left" />
-  Never miss important tasks with Daily Reminder – your personal productivity companion.  
-  Set reminders, manage tasks, and stay organized throughout your day.
-</p>
+## 📫 Contact Me
+<a href="https://linkedin.com/in/parshurambehera7735">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30" height="30" />
+</a>
 
-👉 **[Download on Play Store](https://play.google.com/store/apps/details?id=com.onedevapps.dailyreminder)**
+## MY APPS ON PLAYSTORE
 
-<br/><br/>
-
----
-
-## 💻 Top Programming Languages
-
-- Kotlin ████████████████████  
-- Java ████████████████  
-- HTML ████████████  
-- C ████████  
-- Others ██████  
-
-*(Auto-generated visual version is shown above in GitHub Stats section.)*
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/parshurambehera7735">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Parshuram-Behera">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://twitter.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" width="40"/>
-  </a>
-</p>
-
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/a5fc2a4e-c898-4c35-adbe-4aa0b966f813" width="180" height="90" alt="Android" />
+    </td>
+     <td align="center">
+        <a href="https://play.google.com/store/apps/details?id=com.onedevapps.dailyreminder">
+        <img src="https://img.shields.io/badge/DOWNLOAD-NOW-brightgreen?style=for-the-badge" width="180" height="30" alt="DOWNLOAD NOW">
+      </a>
+    </td> 
+  </tr>
+</table>
+<!--herf="https://play.google.com/store/apps/details?id=com.onedevapps.dailyreminder" -->
